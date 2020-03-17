@@ -2,9 +2,7 @@
 
 TASK : 
 
-To classify suspected FNA cells to Benign (class 0) or Malignant (class
-1) using logistic regression as the classifier. The dataset in use is the Wisconsin Diagnostic Breast
-Cancer (wdbc.dataset).
+To classify suspected FNA cells to Benign (class 0) or Malignant (class 1) using logistic regression as the classifier. The dataset in use is the Wisconsin Diagnostic Breast Cancer (wdbc.dataset).
 
 Plan of work :
 
